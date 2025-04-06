@@ -84,7 +84,7 @@ export default function HomePage() {
     <main className="min-h-screen w-full bg-gray-100 text-gray-800 flex flex-col items-center justify-center px-4 py-10">
       <div className="w-full max-w-6xl bg-white rounded-xl p-6 shadow-lg">
         <h1 className="text-3xl font-bold mb-6 text-center">
-          🎨 Fullscreen Color Harmony Generator
+          🎨 Color Harmony Generator
         </h1>
 
         <div className="mb-10 flex flex-col items-center">
